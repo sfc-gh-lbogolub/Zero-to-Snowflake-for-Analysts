@@ -4,5 +4,5 @@ This code is centered around an Analyst persona, covering the following:
 
 Snowflake UI, Object Hierarchy, Querying data, Switching roles
 
-How to Run
+How to Run:
 Download the .ipynb file and create a new Notebook in Snowflake using the "Create from .ipynb file" option in the Notebooks interface.
