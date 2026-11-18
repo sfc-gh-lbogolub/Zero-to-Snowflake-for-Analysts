@@ -1,4 +1,3 @@
-Zero to Snowflake 2025
 This repository holds the code used in Zero to Snowflake For Analysts Hands-on Labs delivered by Louie Bogolub on 11/19/2026.
 
 This code is centered around an Analyst persona, covering the following:
